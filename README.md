@@ -2,6 +2,14 @@
 
 Senior Software Engineer | Software Architect | Fintech & Cloud Specialist
 
+![Motherboard](https://img.shields.io/badge/Motherboard-ASUS%20EX--B250M--V-000000?style=for-the-badge&logo=asus&logoColor=white)
+
+![CPU](https://img.shields.io/badge/CPU-Intel%20i7--7700K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
+![GPU](https://img.shields.io/badge/GPU-RTX%203060%2012GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![RAM](https://img.shields.io/badge/RAM-JUHOR%2032GB%20DDR4-ff6b35?style=for-the-badge&logo=memory&logoColor=white)
+
 Welcome to my GitHub.
 
 I am a Brazilian software engineer with over 15 years of experience designing, building and scaling high-performance systems in complex environments, especially in the financial sector.
