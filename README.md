@@ -52,7 +52,7 @@ RabbitMQ • REST APIs • Webhooks • API Gateways
 
 **Data & Processing**
 
-Spring Batch • ETL Pipelines • Data Processing • CSV / Large Dataset Handling
+Python / Pandas / AirFLow • Spring Batch • ETL Pipelines • Data Processing • CSV / Large Dataset Handling
 
 ---
 
